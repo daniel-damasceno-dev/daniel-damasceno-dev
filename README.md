@@ -30,12 +30,8 @@
 
 ## 📂 Projeto em destaque
 
-### 🐄 [herd-management-system](https://github.com/daniel-damasceno-dev/herd-management-system)
-> Sistema de gestão de rebanho e produção leiteira para pecuária familiar.  
-> API REST com Spring Boot, autenticação JWT, relatórios com JasperReports e banco PostgreSQL.
-
-`Java` `Spring Boot` `PostgreSQL` `JasperReports` `JWT` `REST API` `Flyway`
-
+### 🐄 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
+> Sistema de gestão de biblioteca.  
 ---
 
 ## 📖 Atualmente aprendendo
