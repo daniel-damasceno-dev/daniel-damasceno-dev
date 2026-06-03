@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-damasceno-dev&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damasceno-dev&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
-
-</div>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
