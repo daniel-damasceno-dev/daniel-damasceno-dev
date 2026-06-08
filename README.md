@@ -13,7 +13,7 @@ Background em infraestrutura de TI — entendo o ambiente onde o software roda.
 PDV desktop com JavaFX e PostgreSQL. Cadastro de produtos, registro de vendas e controle de estoque.
 
 **[sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)**  
-API REST com Spring Boot para gestão de biblioteca. Empréstimos, devoluções e controle de acervo.
+Sistema de gestão de biblioteca em Java com POO. Empréstimos, devoluções e controle de acervo.
 
 **[jogo-de-damas](https://github.com/daniel-damasceno-dev/jogo-de-damas)**  
 Jogo de damas em Java Swing para dois jogadores. Lógica completa: movimentos, capturas e promoção de peças.
