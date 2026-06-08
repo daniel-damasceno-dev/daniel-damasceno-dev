@@ -162,11 +162,8 @@ Tecnologias:
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-damasceno-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damasceno-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=daniel-damasceno-dev&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 📬 Contato
