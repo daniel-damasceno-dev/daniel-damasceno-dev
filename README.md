@@ -31,7 +31,7 @@
 
 ## 📂 Projeto em destaque
 
-### 🐄 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
+### 📚 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
 > Sistema de gestão de biblioteca.  
 ---
 
