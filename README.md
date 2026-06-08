@@ -32,8 +32,9 @@
 ## 📂 Projeto em destaque
 
 ### 📚 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
+> Sistema de gestão de biblioteca.
 ### 🎲 [jogo-de-damas](https://github.com/daniel-damasceno-dev/jogo-de-damas)
-> Sistema de gestão de biblioteca.  
+> Jogo de damas para dois jogadores.
 ---
 
 ## 📖 Atualmente aprendendo
