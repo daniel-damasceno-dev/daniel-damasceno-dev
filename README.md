@@ -31,6 +31,8 @@
 
 ## 📂 Projeto em destaque
 
+### ⚙️ [sistema-pdv](https://github.com/daniel-damasceno-dev/sistema-pdv)
+> Sistema usado para registrar vendas no momento em que o cliente compra.
 ### 📚 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
 > Sistema de gestão de biblioteca.
 ### 🎲 [jogo-de-damas](https://github.com/daniel-damasceno-dev/jogo-de-damas)
