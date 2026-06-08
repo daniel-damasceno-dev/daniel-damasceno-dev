@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - 💻 Em transição de carreira: **Suporte TI → Desenvolvedor Java Backend**
-- 🎓 Graduado em **ADS** — focado em backend com Spring Boot e PostgreSQL
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — focado em backend com Spring Boot e PostgreSQL
 - 🛠 +2 anos de experiência em TI: redes, Active Directory, ERP, CFTV e servidores
 - 📚 Estudando Spring Data JPA, Spring Security, Docker e boas práticas de API REST
 - 🎯 Objetivo: atuar como **Desenvolvedor Backend Java Pleno**
@@ -27,16 +27,35 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
-## 📂 Projeto em destaque
+## 📊 GitHub Stats
 
-### ⚙️ [sistema-pdv](https://github.com/daniel-damasceno-dev/sistema-pdv)
-> Sistema usado para registrar vendas.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniel-damasceno-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damasceno-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+### 🛒 [sistema-pdv](https://github.com/daniel-damasceno-dev/sistema-pdv)
+> Sistema de Ponto de Venda desktop desenvolvido em Java com JavaFX e PostgreSQL.  
+> Funcionalidades: cadastro de produtos, registro de vendas, controle de estoque e relatórios.  
+> **Stack:** Java • JavaFX • PostgreSQL • MVC
+
 ### 📚 [sistema-biblioteca](https://github.com/daniel-damasceno-dev/sistema-biblioteca)
-> Sistema de gestão de biblioteca.
+> API REST para gestão de biblioteca desenvolvida com Spring Boot e PostgreSQL.  
+> Funcionalidades: cadastro de livros, controle de empréstimos e devoluções.  
+> **Stack:** Java • Spring Boot • PostgreSQL • Maven • Flyway
+
 ### 🎲 [jogo-de-damas](https://github.com/daniel-damasceno-dev/jogo-de-damas)
-> Jogo de damas para dois jogadores.
+> Jogo de damas para dois jogadores com interface gráfica em Java Swing.  
+> Implementa toda a lógica do jogo: movimentos, capturas e promoção de peças.  
+> **Stack:** Java • Swing • OOP
+
 ---
 
 ## 📖 Atualmente aprendendo
